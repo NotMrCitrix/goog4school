@@ -1,2 +1,2 @@
 # goog4school
-https:/google.com
+[Visit Google](https://www.google.com)
