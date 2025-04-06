@@ -1,0 +1,4 @@
+.:53 {
+    rewrite name bluebook-chromebook.app.collegeboard.org google.com
+    forward . 8.8.8.8 8.8.4.4
+}
